@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - Misplaceable
+  - Perceiver
   layers:
   - Default
   - TransparentFX
@@ -12,8 +14,8 @@ TagManager:
   - Post Processing
   - Water
   - UI
-  - 
-  - 
+  - AIM Interest
+  - AIM Danger
   - 
   - 
   - 
