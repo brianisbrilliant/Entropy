@@ -716,7 +716,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 1
-  ObjectiveAsSpeed: -1
+  ObjectiveAsSpeed: 0
   Context: {fileID: 0}
 --- !u!114 &902385707
 MonoBehaviour:
